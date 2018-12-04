@@ -15,7 +15,7 @@ git@github.com:caidapao/Test-Git.git
 
 # 将本地改动的文件，加入暂存区（Index）
 
-git add <filename>
+git add 你的文件名称
 
 # 将暂存区的改动提交到HEAD
 
