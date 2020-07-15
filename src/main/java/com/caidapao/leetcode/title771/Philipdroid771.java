@@ -1,11 +1,13 @@
+package com.caidapao.leetcode.title771;
+
 /**
  * 搬运过来的，大佬力扣账号是：philipdroid
  * 利用了ASCII表和字符的对应关系（我怎么就想不到呢..）
  */
-public class PhilipdroidSolution {
+public class Philipdroid771 {
 
     public static void main(String[] args) {
-        new PhilipdroidSolution().numJewelsInStones("aAb", "aAAbbbb");
+        new Philipdroid771().numJewelsInStones("aAb", "aAAbbbb");
     }
 
     public int numJewelsInStones(String J, String S) {

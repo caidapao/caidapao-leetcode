@@ -1,13 +1,17 @@
+package com.caidapao.leetcode.title665;
 /**
+ * 665. Non-decreasing Array
+ * 665. 非递减数列
  * Created by caidapao on 2019/9/19
  * Time 20:52
  * address https://today.caidapao.com
+ * @author caix01
  */
-public class ChasenSolution {
+public class My665 {
 
     public static void main(String[] args) {
         int[] a = new int[]{2, 3, 3, 2, 4};
-        new ChasenSolution().checkPossibility(a);
+        new My665().checkPossibility(a);
     }
 
     int tempIndex = 0;

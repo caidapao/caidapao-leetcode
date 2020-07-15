@@ -1,11 +1,13 @@
-
+package com.caidapao.leetcode.title938;
 
 /**
+ * 938. Range Sum of BST
+ * 938. 二叉搜索树的范围和
  * Created by caidapao on 2019-8-2
  * Time 17:21
  * Address https://today.caidapao.com
  */
-public class ChasenSolution {
+public class My938 {
 
     public static void main(String[] args) {
 

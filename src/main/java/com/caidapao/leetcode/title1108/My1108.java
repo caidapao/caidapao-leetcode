@@ -1,13 +1,16 @@
+package com.caidapao.leetcode.title1108;
 /**
+ * 665. Non-decreasing Array
+ * 665. 非递减数列
  * Created by caidapao on 2019/7/26
  * Time 21:31
  * address https://today.caidapao.com
  */
-public class ChasenSolution {
+public class My1108 {
 
 
     public static void main(String[] args) {
-        new ChasenSolution().defangIPaddr("1.1.1.1");
+        new My1108().defangIPaddr("1.1.1.1");
     }
 
 
